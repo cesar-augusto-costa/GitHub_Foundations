@@ -1,1 +1,1 @@
-# GitHub_Foundations
+# GitHub Foundations
